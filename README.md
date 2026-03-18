@@ -138,18 +138,3 @@ Project team:
 
 Academic Year: 2025-2026
 
----
-
-## Future Work
-
-- Use BERT / AraBERT embeddings
-- Add reviewer workload balancing
-- Add collaborative filtering
-- Improve multilingual support
-- Integrate real journal data
-
----
-
-## License
-
-Academic / Research project
