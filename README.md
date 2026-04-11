@@ -1,4 +1,4 @@
-# Automated Reviewer Assignment for Scientific Papers
+# Graph-Based Automated Reviewer Assignment for Scientific Papers
 
 ## Overview
 
