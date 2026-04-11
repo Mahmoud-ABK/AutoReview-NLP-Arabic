@@ -4,7 +4,7 @@
 
 This project implements an intelligent system for automatically assigning scientific papers to the most suitable reviewers using Machine Learning, NLP, and graph-based disambiguation algorithms.
 
-The system processes Arabic and English research papers, extracts metadata using OCR and text mining, builds semantic representations of articles, and recommends reviewers based on expertise similarity.
+The system processes Arabic research papers, extracts metadata using OCR and text mining, builds semantic representations of articles, and recommends reviewers based on expertise similarity.
 
 This project was developed as part of the Data Treatment & Machine Learning project at ISIMM (2025–2026).
 
