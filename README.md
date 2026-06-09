@@ -10,6 +10,14 @@ This project was developed as part of the Data Treatment & Machine Learning proj
 
 ---
 
+## 📄 Project Report
+
+You can access the complete documentation of the project here:
+
+👉 [Project_Report (PDF)](./Report_NLP_Arabic_DataTreatment.pdf)
+
+---
+
 ## Problem
 
 Reviewer assignment in journals and conferences is usually manual, slow, and error-prone.
